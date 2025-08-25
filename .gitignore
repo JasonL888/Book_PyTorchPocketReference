@@ -1,2 +1,4 @@
 coffee.jpg
 imagenet_class_labels.txt
+train/
+test/
