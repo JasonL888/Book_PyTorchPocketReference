@@ -3,3 +3,5 @@ imagenet_class_labels.txt
 train/
 test/
 data/
+FashionMNIST/
+gan.pt
