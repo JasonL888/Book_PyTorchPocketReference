@@ -5,3 +5,5 @@ test/
 data/
 FashionMNIST/
 gan.pt
+runs/
+mnist_train/
